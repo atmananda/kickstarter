@@ -22,7 +22,7 @@ $(function() {
     });
     
     $('.twitter').on('click', function() {
-        var loc = encodeURIComponent('http://bit.ly/atmananda'),
+        var loc = encodeURIComponent('http://bit.ly/atmanandayoga'),
                 title = "A revolutionary yoga mat that protects your body and advances your practice by Atmananda",
                 w = 580, h = 300,
                 left = (screen.width/2)-(w/2),
