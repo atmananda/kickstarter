@@ -32,7 +32,7 @@ $(function() {
     });
     
     $('.play').on('click', function() {
-        window.location.href = "http://bit.ly/atmanandayoga;
+        window.location.href = "http://bit.ly/atmanandayoga";
     });
     
 });
